@@ -10,6 +10,8 @@ After compiling by using `make` you will be able to launch the philo executable.
 
 ```bash
 ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [min_number_of_times_to_eat]
+```
+```bash
 ./philo 4 400 200 200
 ```
 This will show a feedback of how the philosophers are doing.
